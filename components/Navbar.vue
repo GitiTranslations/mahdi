@@ -1,8 +1,8 @@
 <template>
-    <nav class="fixed top-0 w-full bg-transparent py-5 text-slate-100 bg-sky-800 opacity-80 z-50">
+    <nav class="fixed top-0 w-full bg-transparent py-5 text-slate-100  opacity-80 z-50 backdrop-blur-lg">
         <div class="w-11/12 sm:w-8/12  mx-auto flex justify-between">
             <NuxtLink to="/" class="text-2xl font-bold">Mahdi Translations</NuxtLink>
-            <ul class="flex space-x-5">
+            <ul class="flex space-x-5 text-xl">
                 <li>
                     <NuxtLink to="/">Home</NuxtLink>
                 </li>

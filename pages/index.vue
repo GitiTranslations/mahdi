@@ -1,9 +1,9 @@
 <template>
     <NuxtLayout>
         <div class=" text-slate-300">
-            <section class="main w-full h-[100vh] relative bg-fixed mt-14" style="background-image: url(pic1.webp)">
+            <section id="about" class="main w-full h-[100vh] relative bg-fixed mt-18" style="background-image: url(pic1.webp)">
                 <!-- <img src="pic1.webp" alt="pic1" class="absolute opacity-50" /> -->
-                <div class="absolute top-[50%] p-10 bg-gradient-to-r from-purple-500 to-pink-500">
+                <div class="absolute top-[40%] p-10 bg-gradient-to-r from-purple-500 to-pink-500">
                     <h1 class="text-4xl font-bold">Welcome to MahT</h1>
                     <h2 class="text-2xl font-thin italic text-slate-50">Your Trusted Translation Partner</h2>
                     <p class="text-xl my-5 ">
@@ -16,7 +16,7 @@
                 </div>
             </section>
 
-            <section>
+            <section id="services">
                 <h2 class="section-title">Our Services</h2>
                 <div class="services">
                     <div class="card">
@@ -50,7 +50,7 @@
                 </div>
             </section>
 
-            <section>
+            <section id="pricing">
                 <h1 class="section-title">Pricing</h1>
                 <div>
                     <div class="card">
@@ -64,7 +64,7 @@
                 </div>
             </section>
 
-            <section>
+            <section id="contact">
                 <h1 class="section-title">Contact Us</h1>
                 <div class="text-center text-xl">
                     <h2 class="text-xl my-1">Get in Touch with MahT</h2>
