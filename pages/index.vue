@@ -1,7 +1,7 @@
 <template>
     <NuxtLayout>
         <div class=" text-slate-300">
-            <section id="about" class="main w-full h-[100vh] relative bg-fixed mt-18" style="background-image: url(pic1.webp)">
+            <section id="about" class="main w-full h-[100vh] relative bg-fixed mt-10" style="background-image: url(pic1.webp)">
                 <!-- <img src="pic1.webp" alt="pic1" class="absolute opacity-50" /> -->
                 <div class="absolute top-[40%] p-10 bg-gradient-to-r from-purple-500 to-pink-500">
                     <h1 class="text-4xl font-bold">Welcome to MahT</h1>
