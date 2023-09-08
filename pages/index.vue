@@ -4,14 +4,18 @@
             <section id="about" class="main w-full h-[100vh] relative bg-fixed mt-10" style="background-image: url(pic1.webp)">
                 <!-- <img src="pic1.webp" alt="pic1" class="absolute opacity-50" /> -->
                 <div class="absolute top-[40%] p-10 bg-gradient-to-r from-purple-500 to-pink-500">
-                    <h1 class="text-4xl font-bold">Welcome to MahT</h1>
+                    <h1 class="text-4xl font-bold">Welcome to Giti Translations</h1>
                     <h2 class="text-2xl font-thin italic text-slate-50">Your Trusted Translation Partner</h2>
                     <p class="text-xl my-5 ">
-                        At MahT, we bridge the language gap to connect you with a world of opportunities. Our team of
-                        skilled linguists is dedicated to delivering accurate, culturally-sensitive translations that help
-                        your
-                        business thrive on a global scale. Whether you need documents, websites, or multimedia content
-                        translated, we've got you covered.
+                        About Giti Translations – “Expert Translation Services”
+
+
+Welcome to Giti Translations, your trusted partner for expert translation services that transcend language boundaries. Our dedicated team of linguists and translators is committed to delivering precise and culturally resonant translations, ensuring your global reach and success.
+Founded on the principles of integrity, quality, and client satisfaction, [Your Agency Name] has emerged as a leader in the translation industry. With extensive experience spanning various industries and sectors, our expertise enables businesses to expand internationally, individuals to connect seamlessly, and organizations to communicate with impact.
+At Giti Translations, we specialize in translating legal documents, technical manuals, marketing collateral, and website localization. Our mission is to facilitate effective cross-cultural communication, breaking down language barriers to help you thrive in a global marketplace.
+Discover the [Your Agency Name] advantage, where words open doors to new opportunities and possibilities. Explore our services and experience the difference that expertise and a global perspective can make.
+Welcome to Giti Translations—where words connect worlds.
+
                     </p>
                 </div>
             </section>
@@ -30,7 +34,7 @@
                     </div>
                     <div class="card">
                         <div class="service-title">
-                            Interpretation Services
+                            Expert Translation Services
                         </div>
                         <div class="service-description">
                             Our skilled interpreters excel in live events, meetings, and conferences, facilitating effective
@@ -75,7 +79,7 @@
 
                     <ul>
                         <li>
-                        Email: info@mahttranslation.com
+                        Email: giti.translations@gmail.com
                         </li>
                         <li>
                         Phone: [Insert Phone Number]
@@ -88,7 +92,7 @@
                         </li>
                     </ul>
                     <div>
-                        Let us help you break language barriers and connect with the world. MahT Translation Agency - Your
+                        Let us help you break language barriers and connect with the world. Giti Translations - Your
                         Global Communication Partner.
                     </div>
                 </div>
